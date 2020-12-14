@@ -1,0 +1,14 @@
+{
+	"name": "sand-Creater",
+	"description": "sand-Creater",
+	"size": 2,
+	"outputItem": { "item": "sand", "amount": 100 }
+	"itemCapacity": 100,
+	"craftTime": 60,
+	"updateEffectChance": 0,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "crafting",
+	"research": "conveyor"
+}

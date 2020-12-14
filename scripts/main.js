@@ -1,0 +1,16 @@
+require("copper-creater");
+require("lead-creater");
+require("metaglass-creater");
+require("graphite-creater");
+require("sand-creater");
+require("coal-creater");
+require("titanium-creater");
+require("thorium-creater");
+require("scrap-creater");
+require("silicon-creater");
+require("plastanium-creater");
+require("phase-fabric-creater");
+require("surge-alloy-creater");
+require("blast-compound-creater");
+require("spore-pod-creater");
+require("pyratite-creater");

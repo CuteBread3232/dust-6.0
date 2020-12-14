@@ -1,0 +1,14 @@
+{
+	"name": "plastanium-Creater",
+	"description": "plastanium-Creater",
+	"size": 2,
+	"outputItem": { "item": "plastanium", "amount": 100 }
+	"itemCapacity": 100,
+	"craftTime": 60,
+	"updateEffectChance": 0,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "crafting",
+	"research": "conveyor"
+}

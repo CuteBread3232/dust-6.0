@@ -1,0 +1,14 @@
+{
+	"name": "surge-alloy-Creater",
+	"description": "surge-alloy-Creater",
+	"size": 2,
+	"outputItem": { "item": "surge-alloy", "amount": 100 }
+	"itemCapacity": 100,
+	"craftTime": 60,
+	"updateEffectChance": 0,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "crafting",
+	"research": "conveyor"
+}
