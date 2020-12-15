@@ -1,0 +1,222 @@
+{
+	"type": "UnitFactory",
+	"name": "many-factory",
+	"description": "many",
+	"size": 3,
+	"health": 500,
+	"itemCapacity": 100,
+	"consumes": {
+		"power": 2,
+	},
+	"plans": [
+		{
+			"unit": "dagger",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+		{
+			"unit": "mace",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "fortress",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "scepter",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "reign",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "nova",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "pulsar",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "quasar",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "vela",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "corvus",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "crawler",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "atrax",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "spiroct",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "arkyid",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "toxopid",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "flare",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "horizon",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "zenith",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "antumbra",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "eclipse",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "mono",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "poly",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "mega",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "quad",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "oct",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "risso",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "minke",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "bryde",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+				{
+			"unit": "sei",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "omura",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "alpha",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "beta",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "gamma",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+						{
+			"unit": "block",
+			"requirements": [
+				{ "item": "silicon", "amount": 10 }
+			]
+		},
+	],
+	"requirements": [
+		{ "item": "silicon", "amount": 10 }
+	],
+	"category": "units",
+	"research": "command-center"
+}
