@@ -1,0 +1,16 @@
+{
+	"type": "Battery",
+	"name": "battery-medium",
+	"size": 2,
+	"description": "battery-medium",
+	"consumes": {
+		"powerBuffered": 100000,
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 100 },
+		{ "item": "silicon", "amount": 100 }
+		{ "item": "titanium", "amount": 100 },
+	],
+	"category": "power"
+	"research": "battery-large"
+}
